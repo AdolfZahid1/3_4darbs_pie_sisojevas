@@ -27,7 +27,7 @@ QDialog {
 background-color:#ececec;
 }
 QTableView {
-	background-color:  transparent;
+	background-color:  rgb(209, 209, 209);
 	 color: black;
 }
 QPushButton, QToolButton, QCommandLinkButton{
@@ -679,7 +679,7 @@ QScrollBar::right-arrow:horizontal {
      <number>10</number>
     </property>
     <property name="placeholderText">
-     <string extracomment="Piemers: 22.09.2005"/>
+     <string extracomment="Piemers: 22.09.2005">Piemers: 22.09.2005</string>
     </property>
    </widget>
   </widget>
@@ -689,7 +689,7 @@ QScrollBar::right-arrow:horizontal {
      <x>0</x>
      <y>0</y>
      <width>1009</width>
-     <height>20</height>
+     <height>19</height>
     </rect>
    </property>
   </widget>
