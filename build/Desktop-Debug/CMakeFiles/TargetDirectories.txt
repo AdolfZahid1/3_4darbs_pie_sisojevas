@@ -1,0 +1,9 @@
+/home/adik/CLionProjects/OOPLearning/3/build/Desktop-Debug/CMakeFiles/3.dir
+/home/adik/CLionProjects/OOPLearning/3/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/adik/CLionProjects/OOPLearning/3/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/adik/CLionProjects/OOPLearning/3/build/Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/adik/CLionProjects/OOPLearning/3/build/Desktop-Debug/CMakeFiles/install.dir
+/home/adik/CLionProjects/OOPLearning/3/build/Desktop-Debug/CMakeFiles/install/local.dir
+/home/adik/CLionProjects/OOPLearning/3/build/Desktop-Debug/CMakeFiles/install/strip.dir
+/home/adik/CLionProjects/OOPLearning/3/build/Desktop-Debug/CMakeFiles/3_autogen_timestamp_deps.dir
+/home/adik/CLionProjects/OOPLearning/3/build/Desktop-Debug/CMakeFiles/3_autogen.dir

@@ -1,0 +1,18 @@
+# ninja log v6
+3	35	1729764989277381216	3_autogen/timestamp	f3297901b4dc52d3
+3	35	1729764989277381216	/home/adik/CLionProjects/OOPLearning/3/build/Desktop-Debug/3_autogen/mocs_compilation.cpp	f3297901b4dc52d3
+462	3132	1729677896841270618	CMakeFiles/3.dir/komandassacensibas.cpp.o	54d2da2a605db3ef
+3	35	1729764989277381216	3_autogen/mocs_compilation.cpp	f3297901b4dc52d3
+3	35	1729764989277381216	/home/adik/CLionProjects/OOPLearning/3/build/Desktop-Debug/3_autogen/timestamp	f3297901b4dc52d3
+462	1369	1729677896841270618	CMakeFiles/3.dir/sportasacensibas.cpp.o	3c45abee48844f17
+266	2739	1729760986060128527	CMakeFiles/3.dir/3_autogen/mocs_compilation.cpp.o	ab1347495edc30af
+4	311	1729589926454371298	build.ninja	5994775d50143500
+267	2722	1729760986060128527	CMakeFiles/3.dir/main.cpp.o	b48d76ce28518ab7
+35	3437	1729764989310714761	CMakeFiles/3.dir/mainwindow.cpp.o	6307a58dfc1fc62f
+3437	3793	1729764992710736323	3	e0a9b704cbb7b4ff
+9	41	1730202516370363384	3_autogen/timestamp	f3297901b4dc52d3
+9	41	1730202516370363384	3_autogen/mocs_compilation.cpp	f3297901b4dc52d3
+9	41	1730202516370363384	/home/adik/CLionProjects/OOPLearning/3/build/Desktop-Debug/3_autogen/timestamp	f3297901b4dc52d3
+9	41	1730202516370363384	/home/adik/CLionProjects/OOPLearning/3/build/Desktop-Debug/3_autogen/mocs_compilation.cpp	f3297901b4dc52d3
+42	2096	1730202516403700654	CMakeFiles/3.dir/mainwindow.cpp.o	6307a58dfc1fc62f
+2096	2297	1730202518457274004	3	e0a9b704cbb7b4ff
